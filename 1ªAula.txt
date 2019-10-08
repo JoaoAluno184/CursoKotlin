@@ -1,0 +1,32 @@
+//Declarando variável
+var idade=16
+var altura:Double=1.7
+var numero=6
+
+//Declarando constante
+val dn="05/08/2003"
+val sx='m'
+
+//Operadores aritméticos +-*/%
+val soma=45+90
+val mod=25%2
+val div=56/3
+val trimundial=3*1
+
+//Operadores lógicos && || !
+//Operadores de incremento e decremento ++ --
+//Operador de atribuição =
+//Operador de igualdade ==
+//Operador de diferença !=
+//Operador de comparação > < >= <=
+
+////Estrutura de condição
+
+fun main(){
+    if(numero%2==0){
+		println("é par")
+    }
+    else{
+        println("é ímpar")
+    }
+}
